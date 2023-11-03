@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="teheme.APIsplashScreen" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/my_primary</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/logotransport</item>
+        <item name="windowSplashScreenAnimationDuration">300</item>
+        <item name="postSplashScreenTheme">@style/Base.Theme.TransportGps</item>
+    </style>
+</resources>
